@@ -1,0 +1,8 @@
+asgiref @ file:///home/momayaz/.cache/pypoetry/artifacts/0b/21/50/2bcd78e63f8be828de46e1a221f490604bd99b70edc7d49bfea5f2ff5b/asgiref-3.3.1-py3-none-any.whl
+Django @ file:///home/momayaz/.cache/pypoetry/artifacts/7a/41/f7/c037d411b9f985a3a6a97136b7916a1b98d7522b0b1563152c85d0b647/Django-3.1.7-py3-none-any.whl
+djangorestframework @ file:///home/momayaz/.cache/pypoetry/artifacts/e3/08/1d/2834edd42b18b05e8ca8969c859a4374478872dfff9da3c1c4c2e0aeba/djangorestframework-3.12.2-py3-none-any.whl
+gunicorn==20.0.4
+Pillow @ file:///home/momayaz/.cache/pypoetry/artifacts/21/1a/de/2607bb0c564c799e280b75f3ee1332f48d165f7d6f0d14d17895622137/Pillow-8.1.2-cp38-cp38-manylinux1_x86_64.whl
+pytz @ file:///home/momayaz/.cache/pypoetry/artifacts/19/50/c9/f8bffb0360052b3c85b912bc4172f824bc2571e24002806fb3a428302e/pytz-2021.1-py2.py3-none-any.whl
+sqlparse @ file:///home/momayaz/.cache/pypoetry/artifacts/f6/9e/b8/b33d7ab31a08d0f94b260c990d807e12f38e0ffb105a4c2ca9ad9a6434/sqlparse-0.4.1-py3-none-any.whl
+whitenoise @ file:///home/momayaz/.cache/pypoetry/artifacts/85/9d/ae/96bb78abce27b6862969fd9e72817c63580afa169b43960b46f8819c6e/whitenoise-5.2.0-py2.py3-none-any.whl
